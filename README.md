@@ -36,6 +36,7 @@ docs/        architettura, contratto API, brief per il team dati
 - [Architettura e modello dati](docs/architettura.md)
 - [Bozza contratto API](docs/api.md)
 - [Brief per il team dati](docs/team-dati.md) ← **data analyst: partite da qui**
+- [Guida rapida a Git](docs/git.md) ← **mai usato Git? leggi qui**
 
 ## Stack (proposta)
 
