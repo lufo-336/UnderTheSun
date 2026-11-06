@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.env
+.DS_Store
+.vscode/
+.idea/
+
+# dataset completi: si rigenerano dagli script in data/
+data/output/
